@@ -25,3 +25,4 @@ for z in range(t):
         print("Yes")
     else:
         print("No")
+        print("I DONT CARE MAN")
